@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋  I’m Kishor Pawar. :india:
-- :man_technologist:  I'm a Innovation Specialist.
+- :man_technologist:  I'm an Innovation Specialist.
 - :man_mechanic:  I’m a relentlessly enterprising person.
 - :ninja:  I’m a jack of all.
 - :running_man: I <a href="https://www.strava.com/athletes/46943656"> run<a> to stay fit.
