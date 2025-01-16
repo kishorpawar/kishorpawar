@@ -6,7 +6,7 @@
 - :ninja:  I’m a jack of all.
 - :running_man: I <a href="https://www.strava.com/athletes/46943656"> run<a> to stay fit.
 - :lotus_position_man: I practice Pranayam to stay mindful.
-- 📫  Catch me up on <a href="https://twitter.com/@iskishor"> twitter </a>.
+- 📫  Catch me up on <a href="https://twitter.com/@iskishor"> X </a>.
 - 💞️  I’m looking to collaborate on interesting and challenging topics and following tags.
 
      ![image](https://user-images.githubusercontent.com/95066753/143531682-63cb16b7-10dc-4bb4-846a-332d2bae0bba.png)
